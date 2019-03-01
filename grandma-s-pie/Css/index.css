@@ -1,1 +1,44 @@
+body{
+	background: url(http://img.blog.csdn.net/20170915194724405?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvQzI2ODE1OTU4NTg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast) no-repeat;
+  background-size: 100%;
 
+}
+
+h1{
+	text-align:center;
+}
+h2{
+	font-family:Century Gothic, Futura, Verdana, sans-serif;
+	background:#F1F1F0;
+	color:#A4A400;
+	letter-spacing:4px;
+}
+.a1{
+	font-size:16pt;
+	font-weight:lighter;
+	color:blue;
+}
+.a2
+{
+	font-size:14pt;
+	font-weight:bold;
+	font-style:italic;
+	color:yellow;
+	cursor:pointer;
+}
+A:link      
+{ 
+	color: blue;  
+}
+A:visited 	
+{ 
+	color: #4c7481;  
+}
+A:active 	
+{ 
+	color: #4c7481;   
+}
+A:hover 	
+{ 
+	color: #7bb9e6;   
+}
